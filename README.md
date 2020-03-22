@@ -13,5 +13,11 @@
 
 ### Characteristics
 1. OutPut Format
-```Excel
 ```
+Excel
+```
+2.legislative Columns:
+ ```
+Year, Party, Votes,	Registered voters,	Total Votes cast, 	Invalid votes,	Valid votes, Ideology 1,Ideology 2,ideology 3,ideology 4,ideology 5,Political Position,political position 2 
+```
+
